@@ -6,4 +6,4 @@ Neste espaço, compartilho meus projetos e ideias, explorando novas soluções e
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaCamila26&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaPantoja26&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
